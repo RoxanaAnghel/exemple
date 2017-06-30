@@ -1,0 +1,6 @@
+c:\users\bistos12\documents\visual studio 2015\Projects\ExamenOOP\ExamenOOP\bin\Debug\ExamenOOP.exe.config
+c:\users\bistos12\documents\visual studio 2015\Projects\ExamenOOP\ExamenOOP\bin\Debug\ExamenOOP.exe
+c:\users\bistos12\documents\visual studio 2015\Projects\ExamenOOP\ExamenOOP\bin\Debug\ExamenOOP.pdb
+c:\users\bistos12\documents\visual studio 2015\Projects\ExamenOOP\ExamenOOP\obj\Debug\ExamenOOP.csprojResolveAssemblyReference.cache
+c:\users\bistos12\documents\visual studio 2015\Projects\ExamenOOP\ExamenOOP\obj\Debug\ExamenOOP.exe
+c:\users\bistos12\documents\visual studio 2015\Projects\ExamenOOP\ExamenOOP\obj\Debug\ExamenOOP.pdb
